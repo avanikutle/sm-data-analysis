@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+*.env.local
+.DS_Store
+backend/venv/
+backend/brokerdata.db
+backend/fyersApi.log
+backend/fyersRequests.log
+__pycache__/
+*.pyc
+token_*.json
